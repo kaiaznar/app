@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div>
+    <div className='h-full bg-blue-200'>
       <Head>
         <title> next app</title>
         <meta name="description" content='photograpy portifolio of kai aznar' />
