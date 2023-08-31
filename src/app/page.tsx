@@ -11,6 +11,7 @@ export default function Home() {
       
       <main >
           <p>Place holder</p>
+          <header></header>
 
       </main>
       <footer>
