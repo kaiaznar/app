@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+header{
+  background-color: white;
+  width: 20vw;
+  height: 10vw;
+}
