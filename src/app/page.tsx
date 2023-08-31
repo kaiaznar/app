@@ -9,8 +9,9 @@ export default function Home() {
         <meta name="description" content='photograpy portifolio of kai aznar' />
       </Head>
       
-      <main className='text-red-500'>
+      <main >
           <p>Place holder</p>
+
       </main>
       <footer>
         <p>Place holder</p>
