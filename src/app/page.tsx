@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       
       <main >
-          <p>Place holder</p>
+          <p>Place holder is fun</p>
           <header></header>
 
       </main>
