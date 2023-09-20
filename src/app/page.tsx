@@ -15,7 +15,7 @@ export default function Home() {
 
       </main>
       <footer>
-        <p>Place holder</p>
+        <p>Place holder this one is not</p>
       </footer>
     </div>
    
